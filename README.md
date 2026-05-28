@@ -8,6 +8,12 @@ The system detects human occupancy and motion activity without using cameras or 
 
 ---
 
+## System Architecture
+
+![Architecture](diagrams/architecture.png)
+
+---
+
 ## Features
 
 - Real-time Wi-Fi occupancy sensing
