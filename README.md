@@ -45,3 +45,9 @@ The system detects human occupancy and motion activity without using cameras or 
 - NumPy
 - Pandas
 - PySerial
+
+---
+
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
